@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Distribution / Executable
+dist/
+build/
+*.exe
+*.spec
+
+# User Configuration
+config.ini
